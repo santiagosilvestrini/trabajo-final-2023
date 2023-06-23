@@ -16,6 +16,7 @@
 > IMPORTANTE: Para que el TP se considere aprobado sus nombres deben aparecer en el `README.md` de la rama `main`. La rama `development` se fusionará con `main` el **Sábado 8 de Julio de 2023 a las 23:59hs**, por lo que sus `Pull Request` deberán haber sido aprobados antes de esa fecha.
 
 ## Estudiantes:
+
 - [x] [Silvestrini, Santiago](https://github.com/santiagosilvestrini/trabajo-final-2023/)
 - [ ] [Ansaldi, Lucila]()
 - [ ] [Cuffaro, Leandro]()
@@ -26,7 +27,7 @@
 - [ ] [Monti, Mateo]()
 - [ ] [Poymulle, Mateo]()
 - [ ] [Queral, Juan Ignacio]()
-- [ ] [Re, Franco]()
+- [x] [Re, Franco](https://github.com/Francojesusre/trabajo-final-2023)
 - [ ] [Serra, Agustina]()
 - [ ] [Tombolesi, Elio]()
 - [ ] [Intile, Augusto]()
