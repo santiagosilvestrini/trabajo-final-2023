@@ -27,7 +27,7 @@
 - [ ] [Monti, Mateo]()
 - [ ] [Poymulle, Mateo]()
 - [ ] [Queral, Juan Ignacio]()
-- [x] [Re, Franco](https://github.com/Francojesusre/trabajo-final-2023)
+- [x] [Re, Franco Jesus](https://github.com/Francojesusre/trabajo-final-2023)
 - [ ] [Serra, Agustina]()
 - [ ] [Tombolesi, Elio]()
 - [ ] [Intile, Augusto]()
