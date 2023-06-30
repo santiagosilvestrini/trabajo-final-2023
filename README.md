@@ -22,7 +22,7 @@
 - [ ] [Cuffaro, Leandro]()
 - [ ] [Ligorria, Franco]()
 - [ ] [Luciani, Graziano]()
-- [ ] [Luciano, Olivia]()
+- [x] [Luciano, Olivia](https://github.com/olivialuciano2003/trabajo-final-2023-FORK.git)
 - [ ] [Melul, Jano]()
 - [ ] [Monti, Mateo]()
 - [ ] [Poymulle, Mateo]()
