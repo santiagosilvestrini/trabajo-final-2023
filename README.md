@@ -21,7 +21,7 @@
 - [ ] [Ansaldi, Lucila]()
 - [ ] [Cuffaro, Leandro]()
 - [ ] [Ligorria, Franco]()
-- [ ] [Luciani, Graziano]()
+- [x] [Luciani, Graziano](https://github.com/grazi99/trabajo-final-2023)
 - [x] [Luciano, Olivia](https://github.com/olivialuciano2003/trabajo-final-2023-FORK.git)
 - [ ] [Melul, Jano]()
 - [ ] [Monti, Mateo]()
