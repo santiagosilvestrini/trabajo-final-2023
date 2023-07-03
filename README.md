@@ -28,7 +28,7 @@
 - [ ] [Poymulle, Mateo]()
 - [x] [Queral, Juan Ignacio ](https://github.com/JuaniQueral/trabajo-final-2023)
 - [x] [Re, Franco Jesus](https://github.com/Francojesusre/trabajo-final-2023)
-- [ ] [Serra, Agustina]()
+- [x] [Serra, Agustina](https://github.com/Agustinaa01/trabajo-final-2023)
 - [ ] [Tombolesi, Elio]()
 - [ ] [Intile, Augusto]()
 - [ ] [Pereyra, Agustín]()
