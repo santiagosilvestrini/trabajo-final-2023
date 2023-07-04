@@ -29,7 +29,7 @@
 - [x] [Queral, Juan Ignacio ](https://github.com/JuaniQueral/trabajo-final-2023)
 - [x] [Re, Franco Jesus](https://github.com/Francojesusre/trabajo-final-2023)
 - [x] [Serra, Agustina](https://github.com/Agustinaa01/trabajo-final-2023)
-- [ ] [Tombolesi, Elio]()
+- [x] [Tombolesi, Elio](https://github.com/ElioTombolesi/trabajo-final-2023)
 - [ ] [Intile, Augusto]()
 - [ ] [Pereyra, Agustín]()
 - [ ] [Zabala, Valentina]()
