@@ -31,6 +31,6 @@
 - [x] [Serra, Agustina](https://github.com/Agustinaa01/trabajo-final-2023)
 - [x] [Tombolesi, Elio](https://github.com/ElioTombolesi/trabajo-final-2023)
 - [ ] [Intile, Augusto]()
-- [ ] [Pereyra, Agustín]()
+- [x] [Pereyra, Agustín](https://github.com/agustinpereyra98/trabajo-final-2023.git)
 - [ ] [Zabala, Valentina]()
 - [x] [Melfi, Luján](https://github.com/LujanMelfi/trabajo-final-2023/)
