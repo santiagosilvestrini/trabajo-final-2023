@@ -18,7 +18,7 @@
 ## Estudiantes:
 
 - [x] [Silvestrini, Santiago](https://github.com/santiagosilvestrini/trabajo-final-2023/)
-- [ ] [Ansaldi, Lucila]()
+- [x] [Ansaldi, Lucila](https://github.com/LucilaAnsaldi/trabajo-final-2023-lucila.git)
 - [ ] [Cuffaro, Leandro]()
 - [ ] [Ligorria, Franco]()
 - [x] [Luciani, Graziano](https://github.com/grazi99/trabajo-final-2023)
