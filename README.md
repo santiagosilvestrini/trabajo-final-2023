@@ -32,5 +32,5 @@
 - [ ] [Tombolesi, Elio]()
 - [ ] [Intile, Augusto]()
 - [ ] [Pereyra, Agustín]()
-- [ ] [Zabala, Valentina]()
+- [x] [Zabala, Valentina](https://github.com/ValentinaZabal/trabajo-final-2023)
 - [ ] [Melfi, Luján]()
