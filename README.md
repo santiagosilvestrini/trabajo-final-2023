@@ -23,7 +23,7 @@
 - [ ] [Ligorria, Franco]()
 - [x] [Luciani, Graziano](https://github.com/grazi99/trabajo-final-2023)
 - [x] [Luciano, Olivia](https://github.com/olivialuciano2003/trabajo-final-2023-FORK.git)
-- [ ] [Melul, Jano]()
+- [x] [Melul, Jano](https://github.com/JanoMelul/trabajo-final-2023)
 - [ ] [Monti, Mateo]()
 - [ ] [Poymulle, Mateo]()
 - [x] [Queral, Juan Ignacio ](https://github.com/JuaniQueral/trabajo-final-2023)
